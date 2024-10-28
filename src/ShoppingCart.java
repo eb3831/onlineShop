@@ -9,6 +9,7 @@ public class ShoppingCart
 
     public void calculateTotal()
     {
+
         double sum = 0;
         for (Product p : products)
         {
